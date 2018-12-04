@@ -13,6 +13,10 @@ My course about Artificial Intelligence that I'm going to give in the second hal
 	* Machine Learning taught by Andrew NG: https://www.coursera.org/learn/machine-learning
 	* and many more available on Coursera
 
+## Youtube playlists
+
+* TODO
+
 ## Cheat sheets
 
 * https://ml-cheatsheet.readthedocs.io/en/latest/
