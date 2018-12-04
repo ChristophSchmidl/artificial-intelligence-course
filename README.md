@@ -13,8 +13,15 @@ My course about Artificial Intelligence that I'm going to give in the second hal
 	* Machine Learning taught by Andrew NG: https://www.coursera.org/learn/machine-learning
 	* and many more available on Coursera
 
+## Cheat sheets
 
-## Books
+* https://ml-cheatsheet.readthedocs.io/en/latest/
+* https://stanford.edu/~shervine/teaching.html
+* Machine learning cheat sheet: https://github.com/afshinea/stanford-cs-229-machine-learning
+* Deep learning cheat sheet: https://github.com/afshinea/stanford-cs-230-deep-learning
+
+
+## Books about Artificial Intelligence and Machine Learning
 
 * An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics) - 29. September 2017
 	* If you do not have any experience when it comes to machine learning, statistical learning then this book might be for you. It does not go into great detail on mathematical formulas and is straight forward.
@@ -30,8 +37,30 @@ My course about Artificial Intelligence that I'm going to give in the second hal
 	* This book is really technical and dense in terms of mathematical formulas. You probably have to read chapters several times before you get it but it offers a lot of information and is one of the best books out there when it comes to machine learning.
 	* German Amazon link: https://www.amazon.de/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1543937901&sr=1-1&keywords=pattern+recognition+and+machine+learning
 	* American Amazon link: https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_2?ie=UTF8&qid=1543937909&sr=8-2&keywords=pattern+recognition+and+machine+learning
+	* Online available: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
 * Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig
 	* A classic about Artificial Intelligence in general. Many different topics are covered like informed search strategies, language models, reinforcement learning and many more.
 	* German Amazon link: https://www.amazon.de/Artificial-Intelligence-Modern-Approach-Global/dp/1292153962/ref=sr_1_1?ie=UTF8&qid=1543942074&sr=8-1&keywords=artificial+intelligence
 	* American Amazon link: https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_3?ie=UTF8&qid=1543942223&sr=8-3&keywords=artificial+intelligence
+
+* Deep Learning (Adaptive Computation and Machine Learning) by Ian Goodfellow, Yoshua Bengio, Aaron Courville - 18. November 2016
+	* A nice book about deep learning by Ian Goodfellow, the inventor of Generative Adversarial Networks (GANs).
+	* German Amazon link: https://www.amazon.de/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1543942452&sr=8-1&keywords=deep+learning
+	* American Amazon link: https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_3?ie=UTF8&qid=1543942464&sr=8-3&keywords=deep+learning
+	* Online available: https://www.deeplearningbook.org/
+
+
+## Books about Mathematics (that I would like to read in the future)
+
+
+* Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science) by Joseph K. Blitzstein and Jessica Hwang - 24. July 2014
+	* German Amazon link: https://www.amazon.de/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1543942971&sr=1-1&keywords=Introduction+to+Probability
+	* American Amazon link: https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=sr_1_3?s=books&ie=UTF8&qid=1543943091&sr=1-3&keywords=Introduction+to+Probability
+
+* Introduction To Probability Hardcover by Dimitri P. Bertsekas, John N. Tsitsiklis - 1. June 2008	
+	* German Amazon link: https://www.amazon.de/Introduction-Probability-Dimitri-P-Bertsekas/dp/188652923X/ref=sr_1_2?s=books-intl-de&ie=UTF8&qid=1543942971&sr=1-2&keywords=Introduction+to+Probability
+	* American Amazon link: https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X/ref=sr_1_1?s=books&ie=UTF8&qid=1543943091&sr=1-1&keywords=Introduction+to+Probability
+
+
+
