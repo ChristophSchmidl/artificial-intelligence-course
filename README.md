@@ -6,7 +6,7 @@ My course about Artificial Intelligence that I'm going to give in the second hal
 
 ## Quotes
 
-### Artificial Intelligence - Foundaitons of Computational Agents by David L. Poole and Alan K. Mackworth
+### Artificial Intelligence - Foundations of Computational Agents by David L. Poole and Alan K. Mackworth
 
 - "Artificial Intelligence, or AI, is the field that studies the synthesis and analysis of computational agents that act intelligently"
 - "It is arguable that intelligence is different: you cannot have fake intelligence. If an agent behaves intelligently, it is intelligent. It is only the external behavior that defines intelligence; action intelligently is being intelligent. Thus, artificial intelligence, if and when it is achieved, will be real intelligence created artificially."
