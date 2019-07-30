@@ -3,6 +3,17 @@
 My course about Artificial Intelligence that I'm going to give in the second half of 2019.
 
 
+
+## Quotes
+
+### Artificial Intelligence - Foundaitons of Computational Agents by David L. Poole and Alan K. Mackworth
+
+- "Artificial Intelligence, or AI, is the field that studies the synthesis and analysis of computational agents that act intelligently"
+- "It is arguable that intelligence is different: you cannot have fake intelligence. If an agent behaves intelligently, it is intelligent. It is only the external behavior that defines intelligence; action intelligently is being intelligent. Thus, artificial intelligence, if and when it is achieved, will be real intelligence created artificially."
+- "Artificial Intelligence (AI) is the established name for the field, but the term "artificial intelligence" is a source of much confusion because artificial intelligence may be interpreted as the opposite of real intelligence. For any phenomenon, you can distinguish real versus fake, where the fake is non-real. You can also distinguish natural versus artificial. Natural means occuring in nature and artificial means made by people."
+
+
+
 ## Massive Open Online Courses (MOOC)
 
 * Practical Deep Learning For Coders taught by Jeremy Howard: https://course.fast.ai/
@@ -53,6 +64,8 @@ My course about Artificial Intelligence that I'm going to give in the second hal
 	* German Amazon link: https://www.amazon.de/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1543942452&sr=8-1&keywords=deep+learning
 	* American Amazon link: https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_3?ie=UTF8&qid=1543942464&sr=8-3&keywords=deep+learning
 	* Online available: https://www.deeplearningbook.org/
+
+* Juraf	
 
 
 ## Books about Mathematics (that I would like to read in the future)
